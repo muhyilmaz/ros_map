@@ -533,6 +533,12 @@
   lat: 52.22085
   long: 6.885674
   link: https://www.saxion.nl/mechatronics
+- name: Muhammed YILMAZ
+  type: other
+  lat: 41.001950
+  long: 29.064160
+  description: ROS beginner
+  link: https://muhyilmaz.github.io
 - name: Sencer Yazici
   type: other
   lat: 41.011243
